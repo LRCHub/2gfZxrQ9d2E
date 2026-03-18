@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Feeling Heart",
+  "base_artist": "YURiKA",
+  "createdAt": "2026-03-18T13:37:13.324105Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feeling Heart",
+      "artist": "小木曽雪菜",
+      "has_synced": true,
+      "path": "select/01_Feeling_Heart_小木曽雪菜.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Feeling Heart",
+      "artist": "小木曽雪菜 (cv. 米澤円)",
+      "has_synced": true,
+      "path": "select/02_Feeling_Heart_小木曽雪菜_(cv._米澤円).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Feeling Heart",
+      "artist": "中司雅美",
+      "has_synced": true,
+      "path": "select/03_Feeling_Heart_中司雅美.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Feeling Heart",
+      "artist": "中司雅美",
+      "has_synced": true,
+      "path": "select/04_Feeling_Heart_中司雅美.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Feeling Heart",
+      "artist": "小木曽雪菜",
+      "has_synced": true,
+      "path": "select/05_Feeling_Heart_小木曽雪菜.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Feeling Heart",
+      "artist": "小木曽雪菜 (CV: 米澤円)",
+      "has_synced": true,
+      "path": "select/06_Feeling_Heart_小木曽雪菜_(CV__米澤円).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feeling Heart",
+      "artist": "YURiKA",
+      "has_synced": true,
+      "path": "select/07_Feeling_Heart_YURiKA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Feeling Heart",
+      "artist": "小木曽雪菜 (米澤円)",
+      "has_synced": true,
+      "path": "select/08_Feeling_Heart_小木曽雪菜_(米澤円).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Feeling Heart (To Heart Remix)",
+      "artist": "KEIKO",
+      "has_synced": true,
+      "path": "select/09_Feeling_Heart_(To_Heart_Remix)_KEIKO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feeling Heart",
+      "artist": "YURiKA",
+      "has_synced": false,
+      "path": "select/pl_01_Feeling_Heart_YURiKA.txt"
+    }
+  ]
+}
